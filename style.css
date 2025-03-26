@@ -1,3 +1,9 @@
+body {
+    background-image: url("rezando.jpg") ;
+    background-size: cover;
+     
+}
+
 .button{
     display: flex;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
